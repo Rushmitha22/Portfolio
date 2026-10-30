@@ -134,13 +134,12 @@ Upload to GitHub Pages for free hosting.
     <h3>Let's Connect</h3>
 
     <p>
-        <a href="mailto:sshreyeshkar@gmail.com">Email</a>
+        <a href="mailto:ruchuu@gmail.com">Email</a>
         |
-        <a href="https://github.com/SHREYESHKAR"
+        <a href="https://github.com/RUSHMITHA"
            target="_blank">GitHub</a>
         |
-        <a href="https://www.linkedin.com/in/shreyeshkar-sekar-31b96332a"
-           target="_blank">LinkedIn</a>
+        
     </p>
 
 </center>
